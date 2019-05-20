@@ -1,4 +1,4 @@
-#Python Assignment
+# Python Assignment
 This Assignment is for dealing with web data stored back to excel file
 
 ## Installation
@@ -7,7 +7,7 @@ Python version : 3.5.x or 3.6.x
 Python3 packages: To install required packages please run following command
             sudo pip3 install -r requirement.txt
 
-##Usage
+## Usage
 
 List of files:-
  requirement.txt - Contains list of all packages required to python program

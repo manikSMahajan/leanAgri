@@ -1,0 +1,5 @@
+beautifulsoup4==4.6.0
+pandas==0.23.4
+requests==2.18.4
+urllib3==1.22
+XlsxWriter==0.7.3
