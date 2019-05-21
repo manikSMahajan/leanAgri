@@ -7,8 +7,12 @@ Platform : Linux
 
 Python version : 3.5.x or 3.6.x
 
-pip version : pip3
+pip version : pip3 
 
+To install pip3 use following command
+```bash
+sudo apt-get install python3-pip
+```
 
 Python3 packages: To install required packages please run following command:
 
@@ -40,6 +44,6 @@ List of files:-
 
  Output:
      Excel file will get created on successful execution at mentioned location
-       in config.json
+       in config.json.
      In images folder all images will get downloaded.
   
