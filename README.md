@@ -4,7 +4,7 @@ This Assignment is for dealing with web data stored back to excel file
 ## Installation
 Platform : Linux
 Python version : 3.5.x or 3.6.x
-Python3 packages: To install required packages please run following command
+Python3 packages: To install required packages please run following command:
             sudo pip3 install -r requirement.txt
 
 ## Usage
