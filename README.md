@@ -12,8 +12,9 @@ pip version : pip3
 
 Python3 packages: To install required packages please run following command:
 
-
-            sudo pip3 install -r requirement.txt
+```bash
+ sudo pip3 install -r requirement.txt
+```
 
 ## Usage
 
