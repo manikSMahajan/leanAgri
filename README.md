@@ -31,7 +31,9 @@ List of files:-
 
 
  How to run:
+ ```bash
  python3 pythonAssignment.py config.json
+ ```
 
  Here pythonAssignment.py takes config.json as argument
 
